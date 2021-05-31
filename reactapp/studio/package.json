@@ -2,7 +2,7 @@
   "name": "studio",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)",
   "main": "package.json",
   "author": "JohnGrat <gratte43@gmail.com>",
   "license": "UNLICENSED",
@@ -25,9 +25,5 @@
     "react": "^17.0",
     "react-dom": "^17.0"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:JohnGrat/Portfolio.git"
-  }
+  "devDependencies": {}
 }
